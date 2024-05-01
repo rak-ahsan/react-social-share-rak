@@ -1,0 +1,24 @@
+{
+  "name": "react-social-share-rak",
+  "version": "1.0.2",
+  "description": "share your website url to social media ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rak-ahsan/react-social-share-rak.git"
+  },
+  "keywords": [
+    "react",
+    "social",
+    "share"
+  ],
+  "author": "Rakib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rak-ahsan/react-social-share-rak/issues"
+  },
+  "homepage": "https://github.com/rak-ahsan/react-social-share-rak#readme"
+}
